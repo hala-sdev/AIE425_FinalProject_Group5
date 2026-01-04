@@ -1,3 +1,11 @@
+numpy
+pandas
+scikit-learn
+scipy
+nltk
+matplotlib
+tqdm
+
 download openpyxl library
 import sys
 !{sys.executable} -m pip install openpyxl
