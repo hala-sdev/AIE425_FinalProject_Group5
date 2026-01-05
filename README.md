@@ -9,7 +9,7 @@
 - Arwa Ahmed Mostafa (221100209)
 
 **Course:** AIE425 Intelligent Recommender Systems  
-**Instructor:** Dr. Samy Ghoneim  
+**Instructor:** Dr. Samy Ghoniemy  
 **Institution:** Galala University  
 **Submission Date:** Monday, January 5, 2026
 
